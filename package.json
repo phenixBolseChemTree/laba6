@@ -1,0 +1,23 @@
+{
+  "name": "polybean",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phenixBolseChemTree/laba6.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phenixBolseChemTree/laba6/issues"
+  },
+  "homepage": "https://github.com/phenixBolseChemTree/laba6#readme",
+  "devDependencies": {
+    "jest": "^29.0.3"
+  }
+}
